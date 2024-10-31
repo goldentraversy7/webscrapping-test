@@ -8,9 +8,13 @@ You are given a Google Doc like this one that contains a list of Unicode charact
 -   You can assume the document will always have the same format as the example document linked above.
 
 For example, the simplified example document linked above draws out the letter 'F':
+
+```
 █▀▀▀
 █▀▀
-█  
+█
+```
+
 Note that the coordinates (0, 0) will always correspond to the same corner of the grid as in this example, so make sure to understand in which directions the x- and y-coordinates increase.
 
 ## Result
